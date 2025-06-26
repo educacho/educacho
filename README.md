@@ -16,4 +16,4 @@ Fake Out of Home (FOOH) Content Creation Android Studio QA Testing
 
 Let’s connect: https://www.linkedin.com/in/eduardocacho-6a6772259
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,androidstudio,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,androidstudio,postman,blender,ae,unreal)](https://skillicons.dev)
