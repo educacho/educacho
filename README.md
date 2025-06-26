@@ -1,3 +1,7 @@
+
+![Blue and Purple Modern Futuristic Tech Event Banner](https://github.com/user-attachments/assets/1748e622-12fe-4f94-a157-663e3145c4cb)
+
+
 ## Hi there 👋
 
 QA Engineer & 3D Animation Specialist with hands-on experience in 3D tracking, modelling, and texturing, combined with strong skills in automated and manual software testing. I have contributed to a variety of projects, including the creation of Fake Out of Home (FOOH) content and comprehensive QA testing on Android Studio. My technical toolkit includes Python, SQL, Cygwin, and Excel, and I am proficient in utilizing tools like JIRA for efficient project management.
