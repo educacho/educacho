@@ -16,4 +16,14 @@ Fake Out of Home (FOOH) Content Creation Android Studio QA Testing
 
 Let’s connect: https://www.linkedin.com/in/eduardocacho-6a6772259
 
+
+My Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,py,androidstudio,postman,blender,ae,unreal)](https://skillicons.dev)
+
+
+
+My Statistics:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=educacho)](https://git.io/streak-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=educacho)](https://github.com/anuraghazra/github-readme-stats)
